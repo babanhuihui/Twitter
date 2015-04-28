@@ -28,5 +28,5 @@ Time spent: `<Number of hours spent>`
 
 ### Walkthrough
 
-![Video Walkthrough](temp.gif)
+![Video Walkthrough](temp1.gif)
 
